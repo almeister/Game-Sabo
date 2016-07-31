@@ -1,0 +1,7 @@
+Duckling Exploration Game
+
+Top-down water view with blur through water
+Pond-bottom with contour
+Several objects scattered on bottom
+Duckling dive triggers camera swoop from top-down to side-pond
+Blur in underwater view too?
